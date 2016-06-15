@@ -8,7 +8,7 @@ class TextInput extends React.Component {
         return(
             <div>
                 <h1>Hello World</h1>
-                <h2>Welcome Now</h2>
+                <h2>Welcome To Form Builder</h2>
             </div>
         );
     }
